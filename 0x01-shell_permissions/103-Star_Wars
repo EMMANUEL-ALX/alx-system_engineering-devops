@@ -1,4 +1,2 @@
 #!/bin/bash
-telnet towel.blinkenlights.nl
-Footer
-
+telnet towel.blinkenlights.nl Footer
