@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Bash script that displays Best School 10 times(while loop)
+# Bash script that displays Best School10 timeswhile loop
 
 count-0
 
