@@ -17,3 +17,6 @@ do
 	else 	
 		echo "Best School"
 	fi
+	(( count++ ))
+done
+
