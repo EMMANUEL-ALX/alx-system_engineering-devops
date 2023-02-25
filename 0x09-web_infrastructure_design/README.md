@@ -14,5 +14,5 @@ This project is about designing web infrastructures using whiteboarding techniqu
 
 ## Authors :
 EMMANUEL ANAEDOBE
-Kenoye Okagua
+||Kenoye Okagua||
 Vincent Chikezie
