@@ -15,4 +15,4 @@ Learning about creating and setting up ssh keys.
 
 ## Authors :black_nib:
 
-- [Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
+- [EMMANUEL ANAEDOBE](https://www.linkedin.com/in/emmanuel-anaedobe-stanislaus) | [Twitter](https://twitter.com/EmmanuelAdobe) | [GitHub](https://github.com/EMMANUEL-ALX)
