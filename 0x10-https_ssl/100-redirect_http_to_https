@@ -56,4 +56,4 @@ backend www-backend
    server 138551-web-01 18.207.140.75:80 check
    server 138551-web-02 100.26.172.35:80 check
 backend letsencrypt-backend
-   server letsencrypt 127.0.0.53:53:53
+   server letsencrypt 127.0.0.53:53
