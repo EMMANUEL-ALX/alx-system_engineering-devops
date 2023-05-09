@@ -1,8 +1,15 @@
 # API advanced
 
+<<<<<<< HEAD
 Advanced project, this time i applied the Reddit API.
 
 ## Tests :thumb_up:
+=======
+I continued to practice querying API's in this advanced project, this time
+working with the Reddit API.
+
+## Tests :heavy_check_mark:
+>>>>>>> a3517c616698fd0aa01cad21bed6af7e95d46911
 
 * [tests](./tests): Folder of test files for all tasks. Provided by Holberton
 School.
